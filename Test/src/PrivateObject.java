@@ -10,6 +10,7 @@ import java.lang.reflect.Field;
  */
 public class PrivateObject  {
 	//Duong comment pro
+	//Duong comment tai day
 	private String privateString = null;
 
 	public PrivateObject(String privateString) {
