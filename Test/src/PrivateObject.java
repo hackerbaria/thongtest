@@ -34,6 +34,8 @@ public class PrivateObject  {
 		// Thong comment server test
 		
 		System.out.println("Tets");
+		
+		// Thong Test
 	}
 
 }
