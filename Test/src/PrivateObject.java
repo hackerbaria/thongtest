@@ -32,6 +32,8 @@ public class PrivateObject  {
 		System.out.println("Thong");
 		
 		// Thong comment server test
+		
+		System.out.println("Tets");
 	}
 
 }
