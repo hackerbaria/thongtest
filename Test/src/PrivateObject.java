@@ -29,6 +29,7 @@ public class PrivateObject  {
 		System.out.println("fieldValue = " + fieldValue);
 		
 		//Duong comment
+		System.out.println("Thong");
 	}
 
 }
