@@ -9,7 +9,7 @@ import java.lang.reflect.Field;
  *
  */
 public class PrivateObject  {
-	//Duong comment
+	//Duong comment tai day
 	private String privateString = null;
 
 	public PrivateObject(String privateString) {
