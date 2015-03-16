@@ -26,7 +26,8 @@ public class PrivateObject  {
 
 		String fieldValue = (String) privateStringField.get(privateObject);
 		System.out.println("fieldValue = " + fieldValue);
-
+		
+		//Duong comment
 	}
 
 }
