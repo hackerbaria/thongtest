@@ -36,6 +36,7 @@ public class PrivateObject  {
 		System.out.println("Tets");
 		
 		// Thong Test
+		// ga
 	}
 
 }
