@@ -30,6 +30,8 @@ public class PrivateObject  {
 		
 		//Duong comment
 		System.out.println("Thong");
+		
+		// Thong comment server test
 	}
 
 }
